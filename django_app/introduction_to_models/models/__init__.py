@@ -6,4 +6,5 @@ from .intermediate import Player, Club, TradeInfo
 from .one_to_one_example import Place, Restaurant, Waiter
 from .absturact_base_classes import CommonInfo, Teacher, Student
 from .multi_table_inheriance import CommonInfo2, Teacher2, Student2
+from .mixin import Post, Comment, User
 
